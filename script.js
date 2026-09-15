@@ -9,7 +9,7 @@ const eventos = [
     hora: "7:00 AM",
     lugar: "Calles Principales de Nuestra Ciudad",
     resumen: "Desfile en honor a los 457 aniversario de la traducción de la Biblia al castellano",
-    descripcion: "Salimos desde nuestras istalaciones al punto de inicio y asi poder plocarmar el nimbre de nuestro señor Jesucristo en nuestra Ciudad",
+    descripcion: "Salimos desde nuestras instalaciones al punto de inicio y asi poder plocarmar el nombre de nuestro señor Jesucristo en nuestra Ciudad",
     flyer: "assets/img/Dia de la Biblia.jpg",
     anteriores: []
   },
@@ -20,7 +20,7 @@ const eventos = [
     hora: "Consulta la Imagen",
     lugar: "Consulta la imagen",
     resumen: "Esta agenda te permite conocer los servicios y eventos especiales de nuestra iglesia durante la semana",
-    descripcion: "Para mas información sobre nuestras celulas de crecimento, puesdes consultar en cuanrquiera de las vias de comunicación y asi poder ubicarte segun tu ubicación",
+    descripcion: "Para mas información sobre nuestras celulas de crecimento, puesdes consultar en cualquiera de las vias de comunicación y asi poder ubicarte segun tu procimidad",
     flyer: "assets/img/2_Agenda Semanal del 14 al 20 de septiembre - Post.jpg",
     anteriores: []
   },
