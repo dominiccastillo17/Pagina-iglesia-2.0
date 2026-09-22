@@ -1,4 +1,4 @@
-// =============================
+a// =============================
 // EVENTOS: EDITA ESTA LISTA
 // =============================
 const eventos = [
@@ -21,7 +21,7 @@ const eventos = [
     lugar: "Consulta la imagen",
     resumen: "Esta agenda te permite conocer los servicios y eventos especiales de nuestra iglesia durante la semana. NOTA: ESTE SÁBADO NO TENDREMOS REUNIÓN DE JÓVENES",
     descripcion: "Para mas información sobre nuestras celulas de crecimento, puesdes consultar en cualquiera de las vias de comunicación y asi poder ubicarte segun tu procimidad",
-    flyer: "assets/img/2_Agenda Semanal del 21 al 27 de septiembre - Post_20260920_185536_0000.jpg",
+    flyer: "assets/img/Agenda Semanal del 21 al 27 de septiembre - Post_20260920_185536_0000.jpg",
     anteriores: []
   },
   {
