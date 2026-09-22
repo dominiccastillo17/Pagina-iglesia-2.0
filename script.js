@@ -16,12 +16,12 @@ const eventos = [
   {
     id: "Agenda Semanal",
     titulo: "Agenda Semanal",
-    fecha: "Semana del 14 al 20 de Septiembre",
+    fecha: "Semana del 21 al 27 de Septiembre",
     hora: "Consulta la Imagen",
     lugar: "Consulta la imagen",
     resumen: "Esta agenda te permite conocer los servicios y eventos especiales de nuestra iglesia durante la semana",
     descripcion: "Para mas información sobre nuestras celulas de crecimento, puesdes consultar en cualquiera de las vias de comunicación y asi poder ubicarte segun tu procimidad",
-    flyer: "assets/img/2_Agenda Semanal del 14 al 20 de septiembre - Post.jpg",
+    flyer: "assets/img/Agenda Semanal del 21 al 27 de septiembre - Post_20260920_185536_0000.jpg",
     anteriores: []
   },
   {
